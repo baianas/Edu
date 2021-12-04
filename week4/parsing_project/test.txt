@@ -1,0 +1,60 @@
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-l340-15api-amd-ryzen-5-3500u-8gb-ddr-1000gb-hdd-radeon-vega-8-graphics-hd-dos-seryy" target="_blank">Ноутбук Lenovo IdeaPad L340-15API AMD Ryzen 5 3500U 8GB DDR 1000GB HDD Radeon Vega 8 Graphics HD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-s145-15iil-intel-core-i5-1035g1-8gb-ddr4-128gb-ssd-intel-uhd-graphics-fhd-dos-grey" target="_blank">Ноутбук Lenovo Ideapad S145-15IIL Intel Core i5-1035G1 8GB DDR4 128GB SSD Intel UHD Graphics FHD DOS Grey</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-gaming-3-15imh05-intel-core-i5-10300h-16gb-ddr-256gb-ssd-nvidia-geforce-gtx-1650ti-4gb-fhd-dos-chernyy" target="_blank">Ноутбук Lenovo IdeaPad Gaming 3 15IMH05 Intel Core i5-10300H 16GB DDR 256GB SSD NVIDIA GeForce GTX 1650Ti 4GB FHD DOS черный</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-gaming-3-15imh05-intel-core-i5-10300h-16gb-ddr-512gb-ssd-nvidia-geforce-gtx-1650ti-4gb-fhd-dos-chernyy" target="_blank">Ноутбук Lenovo IdeaPad Gaming 3 15IMH05 Intel Core i5-10300H 16GB DDR 512GB SSD NVIDIA GeForce GTX 1650Ti 4GB FHD DOS черный</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-gaming-3-15imh05-intel-core-i5-10300h-8gb-ddr-256gb-ssd-nvidia-geforce-gtx-1650ti-4gb-fhd-dos-chernyy" target="_blank">Ноутбук Lenovo IdeaPad Gaming 3 15IMH05 Intel Core i5-10300H 8GB DDR 256GB SSD NVIDIA GeForce GTX 1650Ti 4GB FHD DOS черный</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-8gb-ddr4-256gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 8GB DDR4 256GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-gaming-3-15imh05-intel-core-i5-10300h-8gb-ddr-512gb-ssd-nvidia-geforce-gtx-1650ti-4gb-fhd-dos-chernyy" target="_blank">Ноутбук Lenovo IdeaPad Gaming 3 15IMH05 Intel Core i5-10300H 8GB DDR 512GB SSD NVIDIA GeForce GTX 1650Ti 4GB FHD DOS черный</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-8gb-ddr4-512gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 8GB DDR4 512GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-acer-aspire-a315-56-intel-core-i3-1005g1-4gb-ddr4-240gb-ssd-intel-hd-graphics-hd-dos-black" target="_blank">Ноутбук Acer Aspire A315-56 Intel Core i3-1005G1 4GB DDR4 240GB SSD Intel HD Graphics HD DOS Black</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-16gb-ddr4-256gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 16GB DDR4 256GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-16gb-ddr4-512gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 16GB DDR4 512GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-24gb-ddr4-256gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 24GB DDR4 256GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-24gb-ddr4-512gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 24GB DDR4 512GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-32gb-ddr4-256gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 32GB DDR4 256GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-tuf-gaming-f17-fx706h-intel-core-i5-11400h-32gb-ddr4-512gb-ssd-nvidia-geforce-rtx-3050-4gb-fhd-dos-seryy" target="_blank">Ноутбук Asus TUF Gaming F17 FX706H Intel Core i5-11400H 32GB DDR4 512GB SSD Nvidia GeForce RTX 3050 4GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-asus-x515ja-bq026-intel-core-i5-1035g1-8gb-ddr4-512gb-ssd-intel-hd-graphics-fhd-dos-seryy" target="_blank">Ноутбук Asus X515JA-BQ026 Intel Core i5-1035G1 8GB DDR4 512GB SSD Intel HD Graphics FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-dell-g5-15-gaming-5511-intel-core-i5-11400h-8gb-ddr-256gb-ssd-nvidia-rtx-3050-4gb-fhd-win10-seryy" target="_blank">Ноутбук Dell G5 15 Gaming 5511 Intel Core i5-11400H 8GB DDR 256GB SSD NVIDIA RTX 3050 4GB FHD WIN10 серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-lenovo-ideapad-15iil05-intel-core-i5-10210u-8gb-ddr-1000gb-hdd-nvidia-mx130-2gb-fhd-dos-seryy" target="_blank">Ноутбук Lenovo Ideapad 15IIL05 Intel Core i5-10210U 8GB DDR 1000GB HDD Nvidia MX130 2GB FHD DOS серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-dell-g5-15-gaming-5511-intel-core-i7-11800h-8gb-ddr-256gb-ssd-nvidia-rtx-3050-4gb-fhd-win10-seryy" target="_blank">Ноутбук Dell G5 15 Gaming 5511 Intel Core i7-11800H 8GB DDR 256GB SSD NVIDIA RTX 3050 4GB FHD WIN10 серый</a></strong>
+</div> 
+<div class="listbox_title oh">
+<strong><a href="/product/view/noutbuk-hp-15-db1255ur-amd-athlon-300u-8gb-ddr4-256gb-ssd-radeon-530-w10-fhd-seryy" target="_blank">Ноутбук HP 15-DB1255UR AMD Athlon 300U 8GB DDR4 256GB SSD RADEON 530 W10 FHD серый</a></strong>
+</div> 

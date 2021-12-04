@@ -1,0 +1,13 @@
+div {color: red; 
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin-top: 10px;
+    padding: 50px;
+}
+.green {
+    background-color: green;
+}
+#selected1{
+    background-color: cyan;
+}
